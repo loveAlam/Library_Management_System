@@ -1,5 +1,6 @@
 # Library Management System
-(![Example Image](https://github.com/your-username/your-repository/blob/main/images/example.png)
+![Example Image](https://github.com/loveAlam/Library_Management_System/blob/main/Screenshot%202024-07-06%20214308.png)
+
 
 This Library Management System is developed using C++ with a focus on efficient data management and user-friendly functionalities.
 
