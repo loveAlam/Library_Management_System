@@ -1,4 +1,5 @@
 # Library Management System
+(![Example Image](https://github.com/your-username/your-repository/blob/main/images/example.png)
 
 This Library Management System is developed using C++ with a focus on efficient data management and user-friendly functionalities.
 
